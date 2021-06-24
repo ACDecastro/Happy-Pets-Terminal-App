@@ -1,0 +1,3 @@
+100,Cacy,60.0,Jason T.,female,Chesapeake Bay Retriever,true,true
+101,Kit,45.0,Bud C.,female,German Shorthair Pointer,true,true
+102,Juno,112.0,Sharon L.,male,Labrador Retriever,false,false

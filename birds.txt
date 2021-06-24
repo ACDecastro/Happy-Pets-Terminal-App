@@ -1,0 +1,2 @@
+300,Mr Quack,2.0,Mike M.,male,Duck,true,true
+301,Tweet,5.5,Mike M.,female,Parakeet,true,false

@@ -1,0 +1,2 @@
+200,Cleo,60.0,JP K.,female,Tabby,true
+201,FizzBuzz,5.5,Vanessa R.,male,Persian,true
